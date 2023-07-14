@@ -16,7 +16,7 @@ If you need help translating your project into French, don't hesitate to contact
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Liozon&show_icons=true&count_private=true)  
 
-[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Liozon&bg_color=ffffff&color=000000&line=0091ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph]([https://github-readme-activity-graph.cyclic.app/graph?username=Liozon&bg_color=ffffff&color=000000&line=0091ff&point=403d3d&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=Liozon&bg_color=ffffff&color=000000&line=0091ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/Liozon)
 
