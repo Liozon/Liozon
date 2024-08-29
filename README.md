@@ -18,6 +18,6 @@ If you need help translating your project into French, don't hesitate to contact
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Liozon&bg_color=ffffff&color=000000&line=0091ff&point=403d3d&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=Liozon&bg_color=ffffff&color=000000&line=0091ff&point=403d3d&area=true&hide_border=true)
 
-![GitHub metrics](https://metrics.lecoq.io/Liozon)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Liozon) ---> 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Liozon)
